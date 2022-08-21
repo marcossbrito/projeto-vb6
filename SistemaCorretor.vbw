@@ -1,0 +1,6 @@
+frmSistemaCorretor = 110, 110, 781, 492, C, 88, 88, 759, 470, C
+frmSplash = 66, 66, 737, 448, C, 44, 44, 715, 426, C
+frmConsultaClientes = 88, 2, 759, 384, C, 104, 126, 827, 508, C
+frmCadCliente = 68, 173, 739, 555, C, -5, -3, 666, 363, C
+frmCadCorretor = 199, 88, 870, 470, C, 25, 69, 733, 523, C
+Module1 = 22, 22, 693, 404, C
